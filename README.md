@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Frontendmentor URL: [https://www.frontendmentor.io/solutions/product-preview-card-component-html-and-css-flexbox-and-grid-mO4UnpgZcz](https://www.frontendmentor.io/solutions/product-preview-card-component-html-and-css-flexbox-and-grid-mO4UnpgZcz)
+- Live Site URL: [https://stunning-piroshki-067ba6.netlify.app/](https://stunning-piroshki-067ba6.netlify.app/)
 
 ## My process
 
